@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "933854068161",
+    "project_id": "grodio-903b8",
+    "storage_bucket": "grodio-903b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933854068161:android:701f57c74304ec275cc340",
+        "android_client_info": {
+          "package_name": "com.ur.grodio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933854068161-ja1sn38jgefkdijsk0831g6550r9jnnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmfa8FrMve69AE4288kP62weKnmH4hzyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933854068161-ja1sn38jgefkdijsk0831g6550r9jnnc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "933854068161-un8etbathpa9nj4t2fb86q5i916mht6l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ur.grodio"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
